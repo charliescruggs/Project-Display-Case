@@ -1,2 +1,3 @@
 # Project-Display-Case
-All code is self documented but may not include all necessary classes or files to run them.
+Contains a mix of School Projects, Personal Projects, and internship experience
+All code is written or prepared by me and is documented, but may or may not include all necessary classes or files to run them.
