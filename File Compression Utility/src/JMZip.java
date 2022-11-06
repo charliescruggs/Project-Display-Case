@@ -38,27 +38,11 @@ public class JMZip {
 
         File file;
         
-//        //hard code test values for args
-//        args[0] = "/Users/charliescruggs/Downloads/Project-Display-Case-master/File Compression Utility/Resume's/CharlesResume.pdf";
-//        args[1] = "zippedFile.jmz";
-//
-//        if (args.length != 2) {
-//            System.out.println("error, enter two filenames");
-//            return;
-//        }
-//
-//        if ((args[1]).contains("/")) {
-//            System.out.println("error, enter two filenames");
-//            return;
-//        }
-//
-//        inputFileName = args[0];
-//        compressedFileName = args[1];
         
-        
-        //hardcoded test values
+//      REPLACE WITH YOUR FILE NAME TO BE ZIPPED
         inputFileName = "src/2022Resume.docx";
-        compressedFileName = "zippedResume.jmz";
+//        
+        compressedFileName = "zipped.jmz";
 
         file = new File(inputFileName);
 

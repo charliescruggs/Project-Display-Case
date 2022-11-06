@@ -35,8 +35,9 @@ public class JMUnzip {
 
         File file;
         
-		compressedFileName = "zippedResume.jmz";
-		decompressedFileName = "unzippedResume.doc";
+        
+		compressedFileName = "zipped.jmz";
+		decompressedFileName = "unzipped.doc";
 
         file = new File(compressedFileName);
 
@@ -44,8 +45,7 @@ public class JMUnzip {
             System.out.println("File does not exist");
             return;
         }
-
-        // Is this ok??
+        
         hs = decompress(compressedFileName);
 
         // get the encoding from the HuffmanSave Object
