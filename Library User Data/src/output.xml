@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+    <user>
+        <record_type desc="Public">PUBLIC</record_type>
+        <primary_id>IDR00009999</primary_id>
+        <first_name>Jeff</first_name>
+        <middle_name>L</middle_name>
+        <last_name>Turner</last_name>
+        <full_name>Jeff L Turner</full_name>
+        <user_group desc="Undergraduate Richard Bland College">UG-RBC</user_group>
+        <campus_code desc="Richard Bland College Library">RBC</campus_code>
+        <account_type desc="External">EXTERNAL</account_type>
+        <external_id>SIS</external_id>
+        <status desc="Active">ACTIVE</status>
+        <contact_info>
+            <addresses>
+                <address preferred="true" segement_type="External">
+                    <line1>23845 White Tail Road</line1>
+                    <line2/>
+                    <city>Allentown</city>
+                    <state_province>VA</state_province>
+                    <postal_code>23803</postal_code>
+                    <country/>
+                    <address_note/>
+                    <address_types>
+                        <address_type desc="School">school</address_type>
+                    </address_types>
+                </address>
+            </addresses>
+            <emails>
+                <email preferred="true" segment_type="External">
+                    <email_address>jturn5@rbc.edu</email_address>
+                    <email_types>
+                        <email_type desc="School">school</email_type>
+                    </email_types>
+                </email>
+            </emails>
+            <phones>
+                <phone preferred_sms="false" preffered="true" segment_type="External">
+                    <phone_number>804-384-5937</phone_number>
+                    <phone_types>
+                        <phone_type desc="Home">home</phone_type>
+                    </phone_types>
+                </phone>
+            </phones>
+        </contact_info>
+        <user_identifiers>
+            <user_identifier segment_type="External">
+                <id_type segment_type="Additional ID 1">OTHER_ID_1</id_type>
+                <value>jturn5</value>
+                <status>ACTIVE</status>
+            </user_identifier>
+            <user_identifier segment_type="External">
+                <id_type desc="Barcode">BARCODE</id_type>
+                <value>R00009999</value>
+                <status>ACTIVE</status>
+            </user_identifier>
+        </user_identifiers>
+    </user>
+    <user>
+        <record_type desc="Public">PUBLIC</record_type>
+        <primary_id>IDR00009998</primary_id>
+        <first_name>Leslie</first_name>
+        <middle_name>A</middle_name>
+        <last_name>Bryan</last_name>
+        <full_name>Leslie A Bryan</full_name>
+        <user_group desc="Undergraduate Richard Bland College">UG-RBC</user_group>
+        <campus_code desc="Richard Bland College Library">RBC</campus_code>
+        <account_type desc="External">EXTERNAL</account_type>
+        <external_id>SIS</external_id>
+        <status desc="Active">ACTIVE</status>
+        <contact_info>
+            <addresses>
+                <address preferred="true" segement_type="External">
+                    <line1>33947 West Grove Road</line1>
+                    <line2/>
+                    <city>Bakersfield</city>
+                    <state_province>VA</state_province>
+                    <postal_code>23888</postal_code>
+                    <country/>
+                    <address_note/>
+                    <address_types>
+                        <address_type desc="School">school</address_type>
+                    </address_types>
+                </address>
+            </addresses>
+            <emails>
+                <email preferred="true" segment_type="External">
+                    <email_address>halh7rit03@rbc.edu</email_address>
+                    <email_types>
+                        <email_type desc="School">school</email_type>
+                    </email_types>
+                </email>
+            </emails>
+            <phones>
+                <phone preferred_sms="false" preffered="true" segment_type="External">
+                    <phone_number>804-394-0376</phone_number>
+                    <phone_types>
+                        <phone_type desc="Home">home</phone_type>
+                    </phone_types>
+                </phone>
+            </phones>
+        </contact_info>
+        <user_identifiers>
+            <user_identifier segment_type="External">
+                <id_type segment_type="Additional ID 1">OTHER_ID_1</id_type>
+                <value>halh7rit03</value>
+                <status>ACTIVE</status>
+            </user_identifier>
+            <user_identifier segment_type="External">
+                <id_type desc="Barcode">BARCODE</id_type>
+                <value>R00009998</value>
+                <status>ACTIVE</status>
+            </user_identifier>
+        </user_identifiers>
+    </user>
+    <user>
+        <record_type desc="Public">PUBLIC</record_type>
+        <primary_id>IDR00009997</primary_id>
+        <first_name>Dawn</first_name>
+        <middle_name>P</middle_name>
+        <last_name>Hill</last_name>
+        <full_name>Dawn P Hill</full_name>
+        <user_group desc="Undergraduate Richard Bland College">UG-RBC</user_group>
+        <campus_code desc="Richard Bland College Library">RBC</campus_code>
+        <account_type desc="External">EXTERNAL</account_type>
+        <external_id>SIS</external_id>
+        <status desc="Active">ACTIVE</status>
+        <contact_info>
+            <addresses>
+                <address preferred="true" segement_type="External">
+                    <line1>11600 Mark Twain Drive</line1>
+                    <line2/>
+                    <city>Petersburg</city>
+                    <state_province>VA</state_province>
+                    <postal_code>23805</postal_code>
+                    <country/>
+                    <address_note/>
+                    <address_types>
+                        <address_type desc="School">school</address_type>
+                    </address_types>
+                </address>
+            </addresses>
+            <emails>
+                <email preferred="true" segment_type="External">
+                    <email_address>dpbhi888@rbc.edu</email_address>
+                    <email_types>
+                        <email_type desc="School">school</email_type>
+                    </email_types>
+                </email>
+            </emails>
+            <phones>
+                <phone preferred_sms="false" preffered="true" segment_type="External">
+                    <phone_number>804-889-3373</phone_number>
+                    <phone_types>
+                        <phone_type desc="Home">home</phone_type>
+                    </phone_types>
+                </phone>
+            </phones>
+        </contact_info>
+        <user_identifiers>
+            <user_identifier segment_type="External">
+                <id_type segment_type="Additional ID 1">OTHER_ID_1</id_type>
+                <value>dpbhi888</value>
+                <status>ACTIVE</status>
+            </user_identifier>
+            <user_identifier segment_type="External">
+                <id_type desc="Barcode">BARCODE</id_type>
+                <value>R00009997</value>
+                <status>ACTIVE</status>
+            </user_identifier>
+        </user_identifiers>
+    </user>
+</users>
