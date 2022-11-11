@@ -1,9 +1,3 @@
-How to run: 
-
-Locate downloaded jar file in your command line then type ‘java -jar Asteroids.jar’ into your command line.
-Alternatively, you may be able to simply select the executable jar to run depending on the settings on your computer. 
-If you are still having issues, I recommend downloading the source code from github and compiling & running in your preferred IDE.
-
 Acknowledgments:
 
 Although much of this code was written by me the following classes were provided by our professor as the primary focus of this 
