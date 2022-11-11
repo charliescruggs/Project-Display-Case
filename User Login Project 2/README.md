@@ -4,3 +4,10 @@ information is accessed and stored in a sample file called users.txt within the 
 
 This program provides the base behavioral structure which will be implemented as a GUI for Login Project 1.
 It will utilize buttons, windows, textboxes and data (user info) storage, as opposed to the menu printing method.
+
+Acknowledgements:
+
+  GFG.java
+    This login module offers password encryption via the pubically
+    availible GFG.java . This module was provided in our course 
+    materials but it was originally from geeksforgeeks.org
