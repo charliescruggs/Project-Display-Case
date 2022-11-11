@@ -7,6 +7,5 @@ It will utilize buttons, windows, textboxes and data (user info) storage, as opp
 
 Acknowledgements:
 
-GFG.java - This login module offers password encryption via the pubically
-availible GFG.java . This module was provided in our course 
+GFG.java - This login module offers password encryption. This module was provided in our course 
 materials but it was originally from geeksforgeeks.org
