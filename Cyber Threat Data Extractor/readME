@@ -1,1 +1,10 @@
+This python script takes an xml file as input. The XML file contains 1000’s of documents. 
 
+Each document could be 1 of 4 types: 
+1. collective_intelligence 
+2. cyber_incident
+3. cyber_threat
+4. cyber_vulnerability
+
+The output of this program are these 4 different documents as spreadsheets or CSV files. 
+The program uses beautiful soup to parse this data, and then carries over necessary columns to the newly formatted CSV files.
