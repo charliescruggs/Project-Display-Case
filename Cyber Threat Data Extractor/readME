@@ -7,4 +7,9 @@ Each document could be 1 of 4 types:
 4. cyber_vulnerability
 
 The output of this program are these 4 different documents as spreadsheets or CSV files. 
-The program uses beautiful soup to parse this data, and then carries over necessary columns to the newly formatted CSV files.
+The program uses beautiful soup to parse this data, and then carries over necessary columns
+to the newly formatted CSV files.
+
+I do not have access or permission to share the data used by this application. Therefore 
+it can not be operated. However, my documented source code is available. A general 
+understanding can be made as to what it does by reading the documentation in the code.
