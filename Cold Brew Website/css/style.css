@@ -1,0 +1,13 @@
+/*!
+ * Charles Scruggs, Lab 7, March 2, 2020
+ * Additional Styling for index.html (separate from scrolling-nav.css style sheet)
+ */
+
+img.coffee {
+  float: right;
+  background-size: cover;
+}
+
+p.siteid {
+  padding-left: 8px;
+}
